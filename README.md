@@ -16,6 +16,8 @@ Download or clone this repository to your local machine. The example files are o
 ## Instructor
 Joe Marini has been building software professionally for some of the biggest and best known companies in Silicon Valley for more than 30 years.
 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
+
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/python-in-excel-quick-start
